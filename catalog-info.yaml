@@ -3,7 +3,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: nodejs-intive-app-36
-  description: Create a starter Node.js backend application with a CI/CD pipeline
+  description: Create a starter Node.js backend application with a CI/CD pipelines
   annotations:
     tektonci/build-namespace: demo-dev
     janus-idp.io/tekton:  nodejs-intive-app-36
